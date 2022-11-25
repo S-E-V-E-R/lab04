@@ -11,7 +11,7 @@ using System.IO;
 using System.Security.Cryptography;
 using System.Diagnostics;
 
-namespace  Lab04_kyrs_3
+namespace Lab04_kyrs_3
 {
     public partial class Form1 : Form
     {
